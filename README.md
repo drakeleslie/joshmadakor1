@@ -1,7 +1,8 @@
-<h1>Hi, I'm Drake! <br/><a href="https://github.com/drakeleslie">Programmer</a>, <a href="https://www.linkedin.com/in/drakeleslie/">Software Engineer </a>,
+<h1>Hi, I'm Drake! <br/><a>Programmer</a>, <a href="https://www.linkedin.com/in/drakeleslie/">Software Engineer </a>,
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+  
 - <b>Full-Stack | Offer Up Clone </b>
   - [Consumer 2 Consumer Marketplace Application](https://github.com/drakeleslie/OfferUpClone2.0)
   
